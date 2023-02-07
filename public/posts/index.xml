@@ -5,65 +5,19 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Donald McLaughlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/posts/resum2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
       
-      <guid>/posts/resum2/</guid>
-      <description>richard.hendriks@mail.com (912) 555-4321 richardhendricks.example.com San Francisco, CA CEO and Software Engineer with knowledge of applied information theory, including optimizing lossless compression schema of both the length-limited and adaptive variants.
-Experience CEO/President, Pied Piper Dec 2013 &amp;ndash; Dec 2014 Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.</description>
-      <content>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:richard.hendriks@mail.com&#34;&gt;richard.hendriks@mail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(912) 555-4321&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://richardhendricks.example.com&#34;&gt;richardhendricks.example.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;San Francisco, CA&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.&lt;/p&gt;
-&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;spanceopresident-pied-piperspan-spandec-2013----dec-2014span&#34;&gt;&lt;!-- raw HTML omitted --&gt;CEO/President, Pied Piper&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Dec 2013 &amp;ndash; Dec 2014&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
-&lt;p&gt;Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Build an algorithm for artist to detect if their music was violating
-copyright infringement laws&lt;/li&gt;
-&lt;li&gt;Successfully won Techcrunch Disrupt&lt;/li&gt;
-&lt;li&gt;Optimized an algorithm that holds the current world record for Weisman Scores&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;spanteacher-coderdojospan-spanjuly-2013----dec-2013span&#34;&gt;&lt;!-- raw HTML omitted --&gt;Teacher, CoderDojo&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;July 2013 &amp;ndash; Dec 2013&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
-&lt;p&gt;Global movement of free coding clubs for young people.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Awarded &amp;lsquo;Teacher of the Month&amp;rsquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-&lt;h3 id=&#34;spanmiss-directionspan-spanaug-2016span&#34;&gt;&lt;!-- raw HTML omitted --&gt;Miss Direction&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Aug 2016&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
-&lt;p&gt;A mapping engine that misguides you:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Won award at AIHacks 2016&lt;/li&gt;
-&lt;li&gt;Built by all women team of newbie programmers&lt;/li&gt;
-&lt;li&gt;Using modern technologies such as GoogleMaps, Chrome Extension and Javascript&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;h3 id=&#34;spanuniversity-of-oklahoma-ba-information-technologyspan-span2011----2014span&#34;&gt;&lt;!-- raw HTML omitted --&gt;University of Oklahoma, BA Information Technology&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;2011 &amp;ndash; 2014&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GPA 4.0&lt;/li&gt;
-&lt;li&gt;DB1101 - Basic SQL&lt;/li&gt;
-&lt;li&gt;CS2011 - Java Introduction&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Web development: HTML, CSS, JavaScript&lt;/li&gt;
-&lt;li&gt;Compression: Mpeg, MP4, GIF&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
 </content>
     </item>
     

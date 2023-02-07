@@ -5,85 +5,45 @@ Title: "Resume"
 Donald McLaughlin
 ============
 -------------------     ----------------------------
-360 Farina Drive&ensp;&ensp;&ensp;  mclaughlindo21@students.ecu.edu\
-Havelock, NC 28532&ensp;&ensp;twitterhandle\
-United States&ensp;&ensp;&ensp;&ensp; &ensp;   252-497-1766
+Location:                   Havelock, NC 28532
+Phone:                      252-497-1766
+Email:                      donald.j.mclaughlin@gmail.com
+Github:                     https://github.com/don1997
 -------------------     ----------------------------
 
 Education
 ---------
+2021-Present
+Greenville, NC	EAST CAROLINA UNIVERSITY (ECU)
+	BS Computer Science
+New Bern, NC	Craven Community College
+	AS Associate of Science
 
-2021-2024 (expected)
-:   **BS, Computer Science**; East Carolina University (ECU)
-
-
-
-Experience
+Personal Projects
 ----------
+### News Aggregator
+Web Application React, Tailwind CSS, Node JS, Express, Vercel, Render IO, Git, Github
+Designed the front end and backend for a minimal news aggregate web application. With the backend pulling from NewsAPI and the frontend displaying the content in an image based masonry layout. 
+https://github.com/don1997/news-image-front-end
 
-**Your Most Recent Work Experience:**
+### Toy Scheme Interpreter in C  
+C, GCC, GDB, Valgrind, Vim, GNU make, Git
+Implemented a toy scheme interpreter in C using just the standard libraries. A significant portion being from walkthrough/guides and SICP. With my focus being on the lexer/parser and overall structure of the project. 
+https://github.com/don1997/Scheme_C
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+• Proficient Programming Languages: C, Java
+• Languages familiar with: Scheme, Racket, Python, Bash, Pascal, C++
+• Proficient Technologies: Git, Vim, GCC
+• Technologies familiar with: GDB, Valgrind, Make, Clang, Emacs
+• Linux: Familiar with Arch based distributions, Experience with installing, configuring, and maintaining Linux systems, Proficient in using the bash shell
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Relevant COursework
 ----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+CSCI 3000 Operating Systems
+CSCI 4520 Computer Architecture
+CSCI 3010 Computer Networks
+CSCI 3650 Design and Analysis of Algorithms
