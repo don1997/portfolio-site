@@ -9,6 +9,7 @@ Location:                   Havelock, NC 28532
 Phone:                      252-497-1766
 Email:                      donald.j.mclaughlin@gmail.com
 Github:                     https://github.com/don1997
+LinkedIn:                   https://www.linkedin.com/in/donald-mclaughlin-702133265/
 -------------------     ----------------------------
 
 Education
@@ -41,7 +42,7 @@ Skills
 • Linux: Familiar with Arch based distributions, Experience with installing, configuring, and maintaining Linux systems, Proficient in using the bash shell
 
 
-Relevant COursework
+Relevant Coursework
 ----------------------------------------
 CSCI 3000 Operating Systems
 CSCI 4520 Computer Architecture
