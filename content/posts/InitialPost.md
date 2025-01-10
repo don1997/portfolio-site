@@ -4,9 +4,9 @@ description: "Click 'Read More' to find more about me and this site."
 
 ---
 # Hello
-My name is Donald McLaughlin. I am pursuing a BS in Computer Science at East Carolina University (ECU). 
+My name is Donald McLaughlin. I am graduate with a BS in Computer Science from East Carolina University (ECU). 
 
-I am currently in my junior year and I am interested in internships or full-time positions in any technical field related to 
+I am interested in internships or full-time positions in any technical field related to 
 Computer Science, such as: Software Engineering, Electrical Engineering, Embedded Systems, OS Development, and Web Development.
 
 ## Projects 

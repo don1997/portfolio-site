@@ -32,6 +32,17 @@ C, GCC, GDB, Valgrind, Vim, GNU make, Git
 Implemented a toy scheme interpreter in C using just the standard libraries. A significant portion being from walkthrough/guides and SICP. With my focus being on the lexer/parser and overall structure of the project. 
 https://github.com/don1997/Scheme_C
 
+### CSM (Code Snippet Manager)
+A web based code snippet manager system. Developed in two major iterations. The first iteration (v0.7.0) being an initial exploration into the Flask web framework to hone in on web app backend functionality as well as getting the core features a web app code snippet manager would need. In V1.0 a switch to the React front end framework took place. Allowing for the use of the Monaco API to be used as the interface for the application. Allowing for a robust VS code like user experience. Using React allowed for the implementation of a built in markdown editor via Marked.  
+
+## V0.7.0
+https://github.com/don1997/csm
+## V1.0
+https://github.com/don1997/CSM-v1.0
+
+### Desk Calculator (Flex/Bison/C)
+https://github.com/don1997/Desk-Calc
+
 Skills
 --------------------
 
